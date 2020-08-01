@@ -17,9 +17,9 @@
 ## Books Have Been Read
 | Name | Authors | Study Note | Code |
 |----|----|----|----|
-| [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) | John Carnell | | |
-| [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson | | |
-| [gRPC: Up and Running](https://learning.oreilly.com/library/view/grpc-up-and/9781492058328/) | Kasun Indrasiri, Danesh Kuruppu | | |
-| [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | | |
+| [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) | John Carnell | | [Repo](https://github.com/wuyichen24/spring-microservices-in-action) |
+| [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson | | [Repo](https://github.com/wuyichen24/microservices-patterns) |
+| [gRPC: Up and Running](https://learning.oreilly.com/library/view/grpc-up-and/9781492058328/) | Kasun Indrasiri, Danesh Kuruppu | | [Repo](https://github.com/wuyichen24/grpc-up-and-running) |
+| [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | | [Repo](https://github.com/wuyichen24/kafka-definitive-guide) |
 | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | | | 
 | [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | | |
