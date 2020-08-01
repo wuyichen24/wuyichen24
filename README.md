@@ -17,3 +17,9 @@
 ## Books Have Been Read
 | Name | Authors | Study Note | Code |
 |----|----|----|----|
+| [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) | John Carnell | | |
+| [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson | | |
+| [gRPC: Up and Running]() | | | |
+| [Kafka: The Definitive Guide]() | | | |
+| [Designing Data-Intensive Applications]() | | | | 
+| [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | | |
