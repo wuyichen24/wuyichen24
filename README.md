@@ -1,3 +1,6 @@
+
+-----
+
 ## Public Repositories
 | Name | Description |
 |----|----|
@@ -14,12 +17,18 @@
 | [boost](https://github.com/wuyichen24/boost) | A series of data structures to simulate the functional programming in Java (like Apache Spark JavaRRD). |
 | [CloudCapstone](https://github.com/wuyichen24/CloudCapstone) | The final project for the Cloud Computing Specialization in Coursera: Analysis of Airline On-Time Performance Data in Hadoop and Spark. |
 
+-----
+
 ## Books Have Been Read
 | Name | Authors | Study Note | Code |
 |----|----|----|----|
-| [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) | John Carnell | | [Repo](https://github.com/wuyichen24/spring-microservices-in-action) |
-| [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson | | [Repo](https://github.com/wuyichen24/microservices-patterns) |
-| [gRPC: Up and Running](https://learning.oreilly.com/library/view/grpc-up-and/9781492058328/) | Kasun Indrasiri, Danesh Kuruppu | | [Repo](https://github.com/wuyichen24/grpc-up-and-running) |
-| [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | | [Repo](https://github.com/wuyichen24/kafka-definitive-guide) |
-| [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | | | 
-| [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | | |
+| [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) | John Carnell | [Google Doc](https://docs.google.com/document/d/1yaZZDy-Sf-pwobK85re5FQCU8X7GGXpmERXtA5CXm4o/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/spring-microservices-in-action) |
+| [Microservices Patterns](https://www.manning.com/books/microservices-patterns) | Chris Richardson | [Google Doc](https://docs.google.com/document/d/1MkeEUyWfDU7HYYCo26GyaVbBHIS29iZ6FnOxuJ_4JHc/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/microservices-patterns) |
+| [gRPC: Up and Running](https://learning.oreilly.com/library/view/grpc-up-and/9781492058328/) | Kasun Indrasiri, Danesh Kuruppu | [Google Doc](https://docs.google.com/document/d/1-9X1T80fF26CSScx9xJNqLx5o1ruhYRGycqEnd9W5Gk/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/grpc-up-and-running) |
+| [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | [Google Doc](https://docs.google.com/document/d/1JJqllxpVwzTJLrGILxJ10LT5_lhi8ZbKlHcrE54A6Rc/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/kafka-definitive-guide) |
+| [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | [Google Doc](https://docs.google.com/document/d/1Tdf0UQRKcqGrslOfsdmzUhpslkbSvi4BTwYcojH2G8A/edit?usp=sharing) | | 
+| [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | [Google Doc](https://docs.google.com/document/d/1aeMxjciAQa1Kng2NaE845dm02ll8hjND6KTlgMsPOtA/edit?usp=sharing) | |
+
+-----
+
+![wuyichen24's github stats](https://github-readme-stats.vercel.app/api?username=wuyichen24&count_private=true)
