@@ -1,8 +1,8 @@
 ## Connect with Me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
+[<img align="left" alt="http://wuyichen.tech/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.youtube.com/channel/UCbh9oxZVcjaXfjQg-QKqapg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]	[<img align="left" alt="https://www.youtube.com/channel/UCbh9oxZVcjaXfjQg-QKqapg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://www.linkedin.com/in/wuyichen24/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 -----
 
@@ -37,3 +37,7 @@
 -----
 
 ![wuyichen24's github stats](https://github-readme-stats.vercel.app/api?username=wuyichen24&count_private=true)
+
+[website]: http://wuyichen.tech/
+[linkedin]: https://www.linkedin.com/in/wuyichen24/
+[youtube]: https://www.youtube.com/channel/UCbh9oxZVcjaXfjQg-QKqapg
