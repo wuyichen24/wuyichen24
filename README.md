@@ -17,6 +17,7 @@
 | [kafka-definitive-guide](https://github.com/wuyichen24/kafka-definitive-guide) | The sample code the book "Kafka: The Definitive Guide (Gwen Shapira, Neha Narkhede, and Todd Palino)" and the personal study note of Apache Kafka. |
 | [grpc-up-and-running](https://github.com/wuyichen24/grpc-up-and-running) | The study note of the book "gRPC: Up and Running (Kasun Indrasiri)" and the reconstruction of source code. |
 | [go-music](https://github.com/wuyichen24/go-music) | The source code of GoMusic web application which is the example in the book "Hands-On Full Stack Development with Go". |
+| [locking-redis](https://github.com/wuyichen24/locking-redis) | Use Redis (in-memory key–value database) to implement different locking algorithms for distributed concurrency control. |
 | [jibernate](https://github.com/wuyichen24/jibernate) | The JPA (Java Persistence API) module based on the Hibernate ORM framework with the enhanced and simplified query and expression modules. |
 | [datarecord](https://github.com/wuyichen24/datarecord) | The transaction-style database connector for providing convenient/high-consistency database operations. |
 | [jpropertiesorm](https://github.com/wuyichen24/jpropertiesorm) | Use annotation and reflection to handle the ORM (Object-Relational Mapping) between Java class and the Java related external configuration files (.properties). |
@@ -35,6 +36,7 @@
 | [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | [Google Doc](https://docs.google.com/document/d/1JJqllxpVwzTJLrGILxJ10LT5_lhi8ZbKlHcrE54A6Rc/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/kafka-definitive-guide) |
 | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | [Google Doc](https://docs.google.com/document/d/1Tdf0UQRKcqGrslOfsdmzUhpslkbSvi4BTwYcojH2G8A/edit?usp=sharing) | | 
 | [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | [Google Doc](https://docs.google.com/document/d/1aeMxjciAQa1Kng2NaE845dm02ll8hjND6KTlgMsPOtA/edit?usp=sharing) | |
+| [Java Concurrency in Practice](https://jcip.net/) | Brian Goetz | [Google Doc](https://docs.google.com/document/d/1OBjN-ie35v49KTgdoDuw4CnVLWQ906LZOqVb3sYWZ9o/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/locking-redis) |
 
 -----
 
