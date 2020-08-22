@@ -36,7 +36,7 @@
 | [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) | Neha Narkhede, Gwen Shapira, Todd Palino | [Google Doc](https://docs.google.com/document/d/1JJqllxpVwzTJLrGILxJ10LT5_lhi8ZbKlHcrE54A6Rc/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/kafka-definitive-guide) |
 | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | [Google Doc](https://docs.google.com/document/d/1Tdf0UQRKcqGrslOfsdmzUhpslkbSvi4BTwYcojH2G8A/edit?usp=sharing) | | 
 | [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | [Google Doc](https://docs.google.com/document/d/1aeMxjciAQa1Kng2NaE845dm02ll8hjND6KTlgMsPOtA/edit?usp=sharing) | |
-| [Java Concurrency in Practice](https://jcip.net/) | Brian Goetz | [Google Doc](https://docs.google.com/document/d/1OBjN-ie35v49KTgdoDuw4CnVLWQ906LZOqVb3sYWZ9o/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/locking-redis) |
+| [Java Concurrency in Practice](https://jcip.net/) | Brian Goetz | [Google Doc](https://docs.google.com/document/d/1OBjN-ie35v49KTgdoDuw4CnVLWQ906LZOqVb3sYWZ9o/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/java-concurrency-in-practice) |
 
 -----
 
