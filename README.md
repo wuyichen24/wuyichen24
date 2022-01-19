@@ -14,7 +14,7 @@
 | [coding-interview](https://github.com/wuyichen24/coding-interview) | The study note for coding problems in interviews. |
 | [system-design-interview](https://github.com/wuyichen24/system-design-interview) | The study note for system design problems in interviews. | 
 | [echo-learning](https://github.com/wuyichen24/echo-learning) | The example code for learning Echo web framework (Golang). |
-| [distributed-system-design-pattern](https://github.com/wuyichen24/distributed-system-design-pattern) | Brainstorm the knowledge of modern distributed system design patterns from different resources (books, essays, web). |
+| [system-design-knowledge](https://github.com/wuyichen24/system-design-knowledge) | Accumulate system design knowledge (concepts, patterns, technology choices, etc.) from different resources (books, essays, web, etc.). |
 | [spring-microservices-in-action](https://github.com/wuyichen24/spring-microservices-in-action) | The source code of the book "Spring Microservices in Action (John Carnell)" and the personal summary of technical essentials about Spring Boot for microservices. |
 | [microservices-patterns](https://github.com/wuyichen24/microservices-patterns) | The source code of the book "Microservices Patterns (Chris Richardson)" and the personal study note of Eventuate Tram Framework (The whole solution of transactional messaging for Spring Boot microservices). |
 | [kafka-definitive-guide](https://github.com/wuyichen24/kafka-definitive-guide) | The sample code the book "Kafka: The Definitive Guide (Gwen Shapira, Neha Narkhede, and Todd Palino)" and the personal study note of Apache Kafka. |
