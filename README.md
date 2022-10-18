@@ -44,6 +44,8 @@
 -----
 
 ![wuyichen24's github stats](https://github-readme-stats.vercel.app/api?username=wuyichen24&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyichen24)](https://github.com/wuyichen24/github-readme-stats)
+
 
 [website]: http://wuyichen.tech/
 [linkedin]: https://www.linkedin.com/in/wuyichen24/
