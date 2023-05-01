@@ -1,8 +1,5 @@
 ## Connect with Me
 
-[<img align="left" alt="https://www.linkedin.com/in/wuyichen24/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.youtube.com/channel/UCbh9oxZVcjaXfjQg-QKqapg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 https://linktr.ee/chenwuyi
 
 <br />
