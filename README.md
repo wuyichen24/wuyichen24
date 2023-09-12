@@ -12,6 +12,7 @@ https://linktr.ee/chenwuyi
 | [coding-interview](https://github.com/wuyichen24/coding-interview) | The study note for coding problems in interviews. |
 | [system-design-interview](https://github.com/wuyichen24/system-design-interview) | The study note for system design problems in interviews. | 
 | [system-design-knowledge](https://github.com/wuyichen24/system-design-knowledge) | Accumulate system design knowledge (concepts, patterns, technology choices, etc.) from different resources (books, essays, web, etc.). |
+| [operating-system-knowledge](https://github.com/wuyichen24/operating-system-knowledge) | Collect the knowledge of operating system for tech interview. |
 | [spring-microservices-in-action](https://github.com/wuyichen24/spring-microservices-in-action) | The source code of the book "Spring Microservices in Action (John Carnell)" and the personal summary of technical essentials about Spring Boot for microservices. |
 | [microservices-patterns](https://github.com/wuyichen24/microservices-patterns) | The source code of the book "Microservices Patterns (Chris Richardson)" and the personal study note of Eventuate Tram Framework (The whole solution of transactional messaging for Spring Boot microservices). |
 | [software-engineering-abbreviations-acronyms](https://github.com/wuyichen24/software-engineering-abbreviations-acronyms) | Abbreviations and acronyms in software engineering, DevOps, IT and business. | 
