@@ -40,6 +40,7 @@ https://linktr.ee/chenwuyi
 | [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Martin Kleppmann | [Google Doc](https://docs.google.com/document/d/1Tdf0UQRKcqGrslOfsdmzUhpslkbSvi4BTwYcojH2G8A/edit?usp=sharing) | | 
 | [Redis in Action](https://www.manning.com/books/redis-in-action) | Josiah Carlson | [Google Doc](https://docs.google.com/document/d/1aeMxjciAQa1Kng2NaE845dm02ll8hjND6KTlgMsPOtA/edit?usp=sharing) | |
 | [Java Concurrency in Practice](https://jcip.net/) | Brian Goetz | [Google Doc](https://docs.google.com/document/d/1OBjN-ie35v49KTgdoDuw4CnVLWQ906LZOqVb3sYWZ9o/edit?usp=sharing) | [Repo](https://github.com/wuyichen24/java-concurrency-in-practice) |
+| [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/) | Titus Winters, Tom Manshreck, Hyrum Wright | [Google Doc](https://docs.google.com/document/d/1IdUmMvjS9PYT5ALV5jMs9xeJ_CIZTrcGN3-E-IqTjtI/edit?usp=sharing)* | |
 | [The Software Engineer's Guidebook](https://www.engguidebook.com/) | Gergely Orosz | [Google Doc](https://docs.google.com/document/d/1gmZyn5VdxG_QsUpCrcxFdRKe2Tb2kCsZT-TqGHdQ87M/edit?usp=sharing)* | |
 
 `*` means in progress
